@@ -64,12 +64,12 @@ def search():
 #welcome 
 def welcome():
 	wel = """
-        figlet xclowns | lolcat
+        -Brut3 force facebook-
         author:xclowns
         team:anonrev
         instagram:rapaaxd_
         facebook:Saputra
-        gunakan dengan bijak:) | lolcat
+        gunakan dengan bijak:)
         
 """
 	total = open(passwordlist,"r")
