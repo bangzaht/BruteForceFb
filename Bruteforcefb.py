@@ -15,7 +15,6 @@ email = str(raw_input("Masukan Nomor Target atau Email : "))
 
 passwordlist = str(raw_input("Masukin wordlist nya,ga punya wordlist? Ketik aja list.txt: "))
 
-kalo gapunya wordlist dm Ig gw aja Ig:rapaaxd_
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 
